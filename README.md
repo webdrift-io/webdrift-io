@@ -1,4 +1,5 @@
-<h1 align="center">WebDrift</h1>
+<p align="center"><img src="assets/banner.svg" alt="WebDrift: websites, business systems and AI assistants" width="100%"></p>
+
 <p align="center"><b>Websites, business systems and AI assistants for small and mid-sized businesses</b><br>
 Dresden, Germany · working remote across Europe · German & English</p>
 
@@ -28,6 +29,13 @@ Drifty is the chat and voice assistant on [webdrift.io](https://webdrift.io). It
 
 Research first (market, channels, competitors) → analysis → a **free clickable prototype before you pay** → build → test → launch.
 You own everything we build. Hosting is in the EU.
+
+### Why clients choose us
+
+- **Prototype before payment**: you click through your new site before paying anything.
+- **Fixed prices, no lock-in**: clear packages, and you own the code, content and accounts.
+- **Performance built in**: fast pages, Lighthouse 90+ as a target, GDPR-friendly by default.
+- **One team, end to end**: research, design, development, automation and care.
 
 ### Stack
 
