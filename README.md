@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="WebDrift: websites, business systems and AI assistants" width="100%"></p>
+<p align="center"><img src="assets/banner-drifty.svg" alt="WebDrift: websites, business systems and AI assistants" width="100%"></p>
 
 <p align="center"><b>Websites, business systems and AI assistants for small and mid-sized businesses</b><br>
 Dresden, Germany · working remote across Europe · German & English</p>
