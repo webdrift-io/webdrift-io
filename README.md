@@ -6,6 +6,7 @@ Dresden, Germany · working remote across Europe · German & English</p>
 <p align="center">
   <a href="https://webdrift.io">webdrift.io</a> ·
   <a href="https://webdrift.io/en/contact">Contact</a> ·
+  <a href="https://www.linkedin.com/company/webdrift-io/">LinkedIn</a> ·
   <a href="https://x.com/Webdriftio">X</a> ·
   <a href="https://www.instagram.com/webdrift.io/">Instagram</a> ·
   <a href="https://www.facebook.com/webdrift.io">Facebook</a>
